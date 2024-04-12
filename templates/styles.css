@@ -1,0 +1,65 @@
+/* styles.css */
+body, html {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+h1,h2 {
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+}
+
+.developed-date {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;  /* Example size */
+    color: #333;      /* Example color */
+    text-align: center;
+}
+
+selector {
+    margin: 20px;
+    padding: 10px 20px;
+    font-size: 24px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+button {
+    margin: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #0078d4;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    outline: none;
+}
+
+button:hover {
+    background-color: #0056a3;
+}
+
+button:active {
+    background-color: #00396b;
+}
+
+#textOutput {
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 60%;
+    text-align: center;
+    background-color: white;
+    min-height: 50px;
+}
