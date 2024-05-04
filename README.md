@@ -52,3 +52,8 @@
 ## 如何贡献
 
 如果您有任何改进意见或功能添加的想法，请通过 pull requests 或 issues 提交。
+
+## 联系方式
+- GitHub: [Snake-Konginchrist](https://github.com/Snake-Konginchrist)
+- Gitee: [Snake-Konginchrist](https://gitee.com/Snake-Konginchrist)
+- Email: developer@skstudio.cn（优先）
